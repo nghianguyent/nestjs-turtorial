@@ -9,7 +9,7 @@ export class ProductsService {
 
   constructor(
     @InjectModel('Product') private readonly productModel: Model<Product>,
-  ) { }
+  ) {}
 
   async insertProduct(title: string, desc: string, price: number) {
     const newProduct = new this.productModel({
