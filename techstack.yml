@@ -2,7 +2,7 @@ repo_name: nghianguyent/nestjs-turtorial
 report_id: ba0f645cb4ab6a90817e5a90221edf39
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-27T14:02:34+00:00'
+timestamp: '2024-02-29T19:38:36+00:00'
 requested_by: nghianguyent
 provider: github
 branch: main
@@ -138,7 +138,7 @@ tools:
   last_updated_by: Nghĩa Nef
   last_updated_on: 2022-11-24 06:33:51.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
@@ -152,7 +152,7 @@ tools:
   last_updated_by: Nghĩa Nef
   last_updated_on: 2022-11-24 06:33:51.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.0
   license: MIT
